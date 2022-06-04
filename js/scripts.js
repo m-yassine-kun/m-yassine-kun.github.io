@@ -23,7 +23,7 @@ var messagesRef = firebase.database().ref('messages');
 document.getElementById('contactForm').addEventListener('submit', submitForm);
 
 // Submit form
-function submitForm(e){
+function submitForm(e){ 
   e.preventDefault();
 
   // Get values
