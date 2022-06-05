@@ -2,7 +2,7 @@
   
   // TODO: Add SDKs for Firebase products that you want to use
   // https://firebase.google.com/docs/web/setup#available-libraries
-
+function initializeApp() {
   // Your web app's Firebase configuration
   const firebaseConfig = {
     apiKey: "AIzaSyDR39JfdjibhaGLDIFyCTW3oJc23K1kMiY",
